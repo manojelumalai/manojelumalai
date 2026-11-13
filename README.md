@@ -22,10 +22,17 @@ a month.
   2022) — client-facing delivery, mentored 30+ developers.
 - **Angular Developer, Fernbird** (Nov 2018–May 2020) — full-stack, deployed on AWS.
 
+## Open source
+- [agentic-workflow-engine](https://github.com/manojelumalai/agentic-workflow-engine) —
+  multi-agent orchestration: supervisor routing, MCP-style typed tools, and HMAC-signed
+  human-in-the-loop approvals for high-risk actions. FastAPI + SSE.
+- [enterprise-llm-gateway](https://github.com/manojelumalai/enterprise-llm-gateway) —
+  OpenAI-compatible gateway with a semantic cache, per-tenant token budgets,
+  circuit-breaker failover across providers, and RAG triad evals.
+
 ## Stack
 Python · TypeScript · LangGraph · LangChain · Pinecone · MCP · LiveKit (voice AI) ·
 AWS · Kafka · Docker · NestJS · Node.js · React/Next.js
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/manojelumalai) · manoj.elumalai@outlook.com
-```
